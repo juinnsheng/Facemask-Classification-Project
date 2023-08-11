@@ -17,7 +17,7 @@ list_of_files = [ #Creating folders
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
-    "dvc.yaml" #ML tools
+    "dvc.yaml", #ML tools
     "params.yaml",
     "requirements.txt",
     "setup.py",
